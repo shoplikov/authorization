@@ -1,4 +1,4 @@
-# authorization
+# Authorization
 The first assignment of Backend course made by students of IT-2202: Abdymazhit Toretai and Shoplikov Alisher.
 The given assignment was written in Node.js as a server and MongoDB as an local database. You must have them installed in your system.
 1) Download the archieve of the project
